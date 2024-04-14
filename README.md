@@ -1,2 +1,2 @@
 # ksp-agents
-Agents for the KSP Differential Games (20250.
+Agents for the KSP Differential Games (2025).
